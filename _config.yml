@@ -1,7 +1,7 @@
-title: NoteTheme
-description: You cannot remember everything.
-baseurl: "/notetheme"
-url: ""
+title: Super Duper Oompa Loompa
+description: Ommpa Loompa's Field manual.
+baseurl: ""
+url: "mykeybee.github.io"
 repository: dinhanhthi/notetheme
 paginate: 28
 
@@ -10,11 +10,11 @@ favicon: "/assets/res/favicon.png" # site's favicon (icon left side of your page
 
 # MatJek specific configurations
 user: 
-  name: "Math2IT"
-  email: "dinhanhthimail@gmail.com"
-  website: "math2it.com"
+  name: "W.Wonka"
+  email: "W.Wonka@superduperoompaloompa.co.uk"
+  website: "superduperoompaloompa.co.uk"
   avatar: "/assets/res/user.png"
-  github: "dinhanhthi"
+  github: "mykeybee"
 google_tracking_id: ""
 google_site_verification: ""
 disqus_shortname: this-site
