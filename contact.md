@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Thi
+title: Contact Me
 css: ["contact.css"]
 comment: 1
 ---
